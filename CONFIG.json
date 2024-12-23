@@ -228,7 +228,7 @@
          "description":"Customizable, responsive, portfolio website built with Next.js",
          "imageSRC":"/images/projects/portfolio.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/portfolio",
+         "buttonURL":"https://github.com/Mystery223/Portfolio",
          "badges":[
             "https://img.shields.io/github/stars/max1mde/portfolio.svg?style=flat"
          ]
