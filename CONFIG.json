@@ -1,7 +1,7 @@
 {
    "siteMetadata":{
-      "title":"Portfolio - Maxim",
-      "description":"Portfolio page by max1mde"
+      "title":"Portfolio - Djul Fikri Ferdiansyah",
+      "description":"Portfolio page by Djul Fikri Ferdiansyah"
    },
    "global":{
       "font":"roboto",
@@ -14,11 +14,11 @@
       }
    },
    "footer":{
-      "text":"© 2024 Maxim - All rights reserved.",
+      "text":"© 2024 Djul Fikri Ferdiansyah - All rights reserved.",
       "links":[
          {
             "label":"GitHub",
-            "url":"https://github.com/max1mde/portfolio"
+            "url":"https://github.com/Mystery223"
          },
          {
             "label":"Contact",
@@ -33,12 +33,12 @@
    "pages":{
       "home":{
          "enabled":true,
-         "header":"Hello, my name is Maxim!",
+         "header":"I'm Djul Fikri Ferdiansyah",
          "route":"/home",
-         "profile_image":"https://avatars.githubusercontent.com/u/114857048?v=4",
-         "about_me":"About Me",
-         "description":"I like to bring random ideas to reality",
-         "tools_languages_title":"Tools & Languages",
+         "profile_image":"https://i.ibb.co.com/q0hXW2G/Foto-Profil.jpg",
+         "about_me":"Tentang Saya",
+         "description":"Saya suka membawa ide-ide acak ke kenyataan",
+         "tools_languages_title":"Perangkat & Bahasa",
          "languages":[
             "Java",
             "JavaScript",
@@ -56,32 +56,32 @@
          ],
          "action_buttons":[
             {
-               "label":"View Projects",
+               "label":"Lihat Projects",
                "route":"/projects",
                "style":"primary"
             },
             {
-               "label":"View on Github",
-               "route":"https://github.com/max1mde/portfolio",
+               "label":"Lihat Di Github",
+               "route":"https://github.com/Mystery223",
                "style":"secondary"
             }
          ],
          "experience":{
             "enabled":true,
-            "title":"My Experience",
+            "title":"Pengalaman Saya",
             "list":[
                {
                   "title":"Software Developer",
-                  "company":"India Solutions",
-                  "date":"2023 - Present",
-                  "description":"Developing highly effective phishing tools and creating innovative callcenter software solutions using cutting-edge technologies to improve the customer experience.",
+                  "company":"Yayasan Naungan Anak Indonesia",
+                  "date":"2024 - Present",
+                  "description":"Sebagai seorang Software Developer, saya bertanggung jawab untuk merancang, mengembangkan, dan memelihara aplikasi perangkat lunak yang inovatif dan berkualitas tinggi. Saya bekerja sama dengan tim lintas fungsi untuk memastikan solusi perangkat lunak yang dihasilkan memenuhi kebutuhan pengguna dan standar industri.",
                   "side":"left"
                },
                {
-                  "title":"Planetary Mineralogy Specialist",
-                  "company":"NASA",
-                  "date":"2022 - 2023",
-                  "description":"Led the inspection, analysis, and cataloging of unique mineral deposits found on Mars, including the discovery of the Jerome T. K. mineral.",
+                  "title":"Software Tester",
+                  "company":"PT Grownia Education",
+                  "date":"2023",
+                  "description":"Sebagai seorang Software Tester, saya bertanggung jawab untuk memastikan kualitas dan kinerja perangkat lunak sebelum dirilis ke pengguna akhir. Tugas utama saya meliputi perencanaan, pelaksanaan, dan dokumentasi pengujian perangkat lunak.",
                   "side":"right"
                },
                {
@@ -96,39 +96,39 @@
       },
       "projects":{
          "enabled":true,
-         "header":"My Projects",
+         "header":"Projects Saya",
          "route":"/projects"
       },
       "contact":{
          "enabled":true,
-         "header":"Socials",
+         "header":"Media Sosial",
          "route":"/contact",
-         "email":"maxim@nextfight.net",
+         "email":"Djulfikri36@gmail.com",
          "direct_contact":"Reach Me Directly",
          "legal":{
             "enabled":true,
-            "name":"Maxim",
-            "address":"Vaitape - Bora Bora",
-            "email":"maxim@nextfight.net",
-            "phone":"911",
+            "name":"Djul Fikri Ferdiansyah",
+            "address":"Nagreg - Jawa Barat",
+            "email":"Djulfikri36@gmail.com",
+            "phone":"+62 815-6321-8948",
             "tax_id":"Not Applicable",
-            "legal_disclaimer":"This is a personal portfolio website for informational purposes."
+            "legal_disclaimer":"Ini adalah situs web portofolio pribadi untuk tujuan informasi."
          },
          "social_links":[
             {
                "name":"GitHub",
-               "url":"https://github.com/max1mde",
+               "url":"https://github.com/Mystery223",
                "icon":"github"
             },
             {
                "name":"TikTok",
-               "url":"https://tiktok.com/@maximde",
+               "url":"https://tiktok.com/@Djulfikrii",
                "icon":"tiktok"
             },
             {
-               "name":"YouTube",
-               "url":"https://www.youtube.com/@max1mde",
-               "icon":"youtube"
+               "name":"Instagram",
+               "url":"https://www.instagram.com/mamang.fikriii/profilecard/?igsh=MWdnM2Ftams4YTc4NA==",
+               "icon":"instagram"
             }
          ],
          "contact_form":{
@@ -165,7 +165,7 @@
          "route":"/privacy",
          "content":{
             "contact_title":"Contact",
-            "contact":"maxim@netfight.net",
+            "contact":"Djulfikri36@gmail.com",
             "introduction":"This portfolio website is designed with minimal data collection and maximum user privacy in mind.",
             "sections":[
                {
@@ -251,56 +251,6 @@
          "buttonURL":"https://www.spigotmc.org/resources/115811/",
          "badges":[
             "https://img.shields.io/spiget/downloads/115811"
-         ]
-      },
-      {
-         "title":"Fancy Readme Stats",
-         "description":"Animated Readme Cards - For your GitHub profile or repository readme",
-         "imageSRC":"/images/projects/readmestats.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/fancy-readme-stats",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/fancy-readme-stats.svg?style=flat"
-         ]
-      },
-      {
-         "title":"HologramAPI",
-         "description":"Packet based text display hologram api with minimessage and emoji support",
-         "imageSRC":"/images/projects/hologramapi.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/HologramAPI",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/HologramAPI.svg?style=flat"
-         ]
-      },
-      {
-         "title":"NextFight",
-         "description":"NextFight is a Minecraft minigame network focused on a Battle Royale like gamemode",
-         "imageSRC":"/images/projects/nextfight.webp",
-         "buttonText":"Join the Discord",
-         "buttonURL":"https://discord.nextfight.net/",
-         "badges":[
-            "https://img.shields.io/discord/1051758423211003951"
-         ]
-      },
-      {
-         "title":"MaximClient",
-         "description":"MaximClient was a 1.8 PVP client with many mods and free online cosmetics",
-         "imageSRC":"/images/projects/maximclient.webp",
-         "buttonText":"Join the Discord",
-         "buttonURL":"https://discord.gg/eCn8VWEGbZ",
-         "badges":[
-            "https://img.shields.io/discord/895012337793249341"
-         ]
-      },
-      {
-         "title":"FIX",
-         "description":"A Windows tool for AI text correction and translation with hotkeys & voice control",
-         "imageSRC":"/images/projects/fix.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/FIX",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/FIX.svg?style=flat"
          ]
       }
    ]

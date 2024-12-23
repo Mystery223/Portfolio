@@ -95,7 +95,7 @@ Change global font in [CONFIG.json](CONFIG.json):
 
 ### Personal Information
 Remove or replace **(Please replace these before deployment)**:
-- **Email addresses** like `maxim@nextfight.net` (Very important)
+- **Email addresses** like `Djulfikri36@gmail.com` (Very important)
 - Social media links
 - Profile image
 - Experience details
@@ -142,4 +142,5 @@ Font licenses available in [here](src/app/fonts/licenses/)
 
 ---
 
-**Developed with ❤️ by Maxim**
+**Developed with ❤️ by Djul Fikri Ferdiansyah**
+# Portfolio
