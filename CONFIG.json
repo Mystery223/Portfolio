@@ -62,7 +62,7 @@
             },
             {
                "label":"Lihat Di Github",
-               "route":"https://github.com/Mystery223",
+               "route":"https://github.com/Mystery223/portfolio",
                "style":"secondary"
             }
          ],
@@ -117,7 +117,7 @@
          "social_links":[
             {
                "name":"GitHub",
-               "url":"https://github.com/Mystery223",
+               "url":"https://github.com/Mystery223/portfolio",
                "icon":"github"
             },
             {
@@ -228,9 +228,9 @@
          "description":"Customizable, responsive, portfolio website built with Next.js",
          "imageSRC":"/images/projects/portfolio.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/Mystery223/Portfolio",
+         "buttonURL":"#",
          "badges":[
-            "https://img.shields.io/github/stars/max1mde/portfolio.svg?style=flat"
+            " # "
          ]
       },
       {
@@ -238,9 +238,9 @@
          "description":"Tree fall animation, hit particles, realistic explosions, 3D particles & more",
          "imageSRC":"/images/projects/fancyphysics.webp",
          "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/110500/",
+         "buttonURL":"#",
          "badges":[
-            "https://img.shields.io/spiget/downloads/110500"
+            "#"
          ]
       },
       {
@@ -248,9 +248,9 @@
          "description":"Packet based chat bubbles above players head, with an extensive API",
          "imageSRC":"/images/projects/betterchatbubbles.webp",
          "buttonText":"Buy on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/115811/",
+         "buttonURL":"#",
          "badges":[
-            "https://img.shields.io/spiget/downloads/115811"
+            "#"
          ]
       }
    ]
