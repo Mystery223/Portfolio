@@ -14,7 +14,7 @@
 
 ## 🚀 Quick Setup (5 Minutes)
 
-1. [Fork the repository](https://github.com/max1mde/portfolio/fork)
+1. [Fork the repository](https://github.com/Mystery223/portfolio/fork)
 2. Customize [CONFIG.json](CONFIG.json) with your personal information in your repository
 3. Deploy to Vercel with one click
 
@@ -51,7 +51,7 @@
 
 ## 💻 Local Development
 
-1. [Fork the repository](https://github.com/max1mde/portfolio/fork)
+1. [Fork the repository](https://github.com/Mystery223/portfolio/fork)
 2. Execute the following commands:
 ```bash
 git clone https://github.com/<your_username>/portfolio.git
@@ -91,57 +91,51 @@ Change global font in [CONFIG.json](CONFIG.json):
 ## ⚠️ Important Notes
 
 ### Contact Form
-**YOU MUST** implement your own contact form logic in [route.js](/src/app/api/contact/route.js). The current implementation is a placeholder.
+**YOU MUST** terapkan logika formulir kontak Anda sendiri di [route.js](/src/app/api/contact/route.js). Implementasi saat ini adalah placeholder.
 
-### Personal Information
-Remove or replace **(Please replace these before deployment)**:
-- **Email addresses** like `Djulfikri36@gmail.com` (Very important)
-- Social media links
-- Profile image
-- Experience details
-- Projects
+### Informasi Pribadi
+Hapus atau ganti **(Harap ganti ini sebelum penerapan)**:
+- **Alamat email** seperti `Djulfikri36@gmail.com` (Sangat penting)
+- Tautan media sosial
+- Gambar profil
+- Detail pengalaman
+- Proyek
 
-### Legal Disclaimer
+### Penafian Hukum
 
-This template is provided as-is, and you are responsible for:
+Templat ini disediakan sebagaimana adanya, dan Anda bertanggung jawab untuk:
 
-- Implementing and securing contact form logic, ensuring compliance with GDPR and other privacy laws.
-- Removing the original author’s personal information and ensuring no infringement on third-party intellectual property rights.
-- Validating the functionality, ensuring security against unauthorized access or breaches, and updating for any legal changes.
-- Providing users with the necessary privacy and cookie notices as required by law.
-- Addressing any issues that may arise, including compatibility, security, and performance concerns.
+- Menerapkan dan mengamankan logika formulir kontak, memastikan kepatuhan terhadap GDPR dan undang-undang privasi lainnya.
 
-By using or modifying this template, you agree to assume full responsibility for any legal or technical issues, including ensuring compliance with relevant legal requirements such as the "Impressum" (if applicable) and privacy laws in your jurisdiction.
+- Menghapus informasi pribadi penulis asli dan memastikan tidak ada pelanggaran hak kekayaan intelektual pihak ketiga.
 
-## 📜 License
+- Memvalidasi fungsionalitas, memastikan keamanan terhadap akses atau pelanggaran yang tidak sah, dan memperbarui untuk setiap perubahan hukum.
 
-This project is licensed under the [GNU Affero General Public License v3.0](LICENSE)
+- Memberikan pengguna pemberitahuan privasi dan cookie yang diperlukan sebagaimana diwajibkan oleh hukum.
+
+- Menangani masalah apa pun yang mungkin timbul, termasuk masalah kompatibilitas, keamanan, dan kinerja.
+
+Dengan menggunakan atau mengubah templat ini, Anda setuju untuk memikul tanggung jawab penuh atas masalah hukum atau teknis apa pun, termasuk memastikan kepatuhan terhadap persyaratan hukum yang relevan seperti "Impressum" (jika berlaku) dan undang-undang privasi di yurisdiksi Anda.
+
+## 📜 Lisensi
+
+Proyek ini dilisensikan di bawah [GNU Affero General Public License v3.0](LICENSE)
 
 ## 🤝 Contributions
 
 Contributions are welcome!  
-Here's how you can help:
-
-- **Report Issues:** [Open an issue](https://github.com/max1mde/portfolio/issues/new?title=Please%20describe%20your%20issue%20or%20feature%20request&body=What%27s%20your%20problem%3F%0AOr%20do%20you%20maybe%20want%20a%20new%20feature%3F%0A%0ATell%20us%21) for bugs or feature requests.  
-- **Contribute Code:**  
-  1. Fork the repository.  
-  2. Create a branch: `git checkout -b feature/your-feature`.  
-  3. Commit using the same message style (e.g., `feat: card hover effect`).  
-  4. Push changes and submit a pull request.  
-- **Improve Docs:** Update the README or add missing info.  
 
 ## 🏆 Credits
 
 ### Fonts
-Font licenses available in [here](src/app/fonts/licenses/)
+Lisensi font tersedia di [sini](src/app/fonts/licenses/)
 
-### Inspiration & Components
-- [Custom Cursor](https://www.michieldb.nl/other/cursors/) by Michiel de Boer (Posy) [License](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
-- [Card Hover Effect](https://codepen.io/markmiro/pen/wbqMPa) by Mark Miro (MIT License)
-- [Infinity Scrolling](https://codepen.io/kevinpowell/pen/BavVLra) by Kevin (MIT License)
+### Inspirasi & Komponen
+- [Kusor Kustom](https://www.michieldb.nl/other/cursors/) oleh Michiel de Boer (Posy) [Lisensi](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+- [Efek Arahkan Kartu](https://codepen.io/markmiro/pen/wbqMPa) oleh Mark Miro (Lisensi MIT)
+- [Pengguliran Tak Terbatas](https://codepen.io/kevinpowell/pen/BavVLra) oleh Kevin (Lisensi MIT)
 
 ---
 
 **Developed with ❤️ by Djul Fikri Ferdiansyah**
-# Portfolio
 # Portfolio

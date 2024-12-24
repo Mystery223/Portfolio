@@ -33,7 +33,7 @@
    "pages":{
       "home":{
          "enabled":true,
-         "header":"I'm Djul Fikri Ferdiansyah",
+         "header":"Djul Fikri Ferdiansyah",
          "route":"/home",
          "profile_image":"https://i.ibb.co.com/q0hXW2G/Foto-Profil.jpg",
          "about_me":"Tentang Saya",
@@ -129,6 +129,11 @@
                "name":"Instagram",
                "url":"https://www.instagram.com/mamang.fikriii/profilecard/?igsh=MWdnM2Ftams4YTc4NA==",
                "icon":"instagram"
+            },
+            {
+               "name":"facebook",
+               "url":"https://www.facebook.com/share/eEAiJMZqXxyFWt92/",
+               "icon":"facebook"
             }
          ],
          "contact_form":{
